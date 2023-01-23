@@ -2,14 +2,12 @@
 
 # User Story
 
-- This is a food application; to access the content on the site, one must sign-up and then login. 
-- The app offers various food recipes 
-- A user can leave their reviews on the recipe
+- This is a food application meant to provide recipes and allow users to leave reveiews on the same
+- Users will have to sign-up and login to access the content and leave reviews 
 
 BONUS
-- Order Feature
-- Add to cart feature
-- About and Contact us in the footer section
+- Customers can also place orders for a dish that they like. For this they will be able to add the recipe to the cart
+- They will see addtional sections - 'About' and 'Contact us',  in the footer section
 
 # Technologies Used
 
@@ -23,7 +21,6 @@ BONUS
 # Layout
 
 1. Home Page
-
 ![entityRelationshipDiagram](images/Home.png)
 
 2. Signup/Login Page
