@@ -2,12 +2,12 @@
 
 # User Story
 
-- This is a food application meant to provide recipes and allow users to leave reveiews on the same
+- This is a food application meant to provide recipes and allow users to leave reviews on the same
 - Users will have to sign-up and login to access the content and leave reviews 
 
 BONUS
 - Customers can also place orders for a dish that they like. For this they will be able to add the recipe to the cart
-- They will see addtional sections - 'About' and 'Contact us',  in the footer section
+- They will see addtional sections - 'About' and 'Contact us' section
 
 # Technologies Used
 
